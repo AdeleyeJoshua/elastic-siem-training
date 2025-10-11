@@ -4,7 +4,7 @@
 
 Documentation of my hands-on Elastic Security SIEM training journey, focusing on practical security operations, threat detection, and incident investigation skills.
 
-**Training Period:** October 2025  
+**Training Period:** September - October 2025  
 **Status:** In Progress
 
 ---
