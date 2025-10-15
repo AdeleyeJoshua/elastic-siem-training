@@ -1,6 +1,15 @@
 # Lab 7.2 - Security App: Explore
 
 ## 📋 Lab Overview
+## 📸 Lab Screenshots
+
+![External Alert Trend - Suricata vs Zeek](screenshots/external-alerts-suricata-zeek.png)
+
+![Top DNS Domains - moatads.com](screenshots/top-dns-domains.png)
+
+![Failed Authentication - Administrator Account](screenshots/failed-auth-administrator.png)
+
+---
 
 **Module:** Security Applications  
 **Lab Section:** 7.2 - Explore  
